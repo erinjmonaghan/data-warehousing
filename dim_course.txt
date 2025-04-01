@@ -1,0 +1,7 @@
+ course_id |  course  
+-----------+----------
+         1 | Cloud
+         2 | Data
+         3 | Software
+(3 rows)
+

@@ -1,0 +1,13 @@
+ manager_id |    manager     
+------------+----------------
+          1 | Stephen Corke
+          2 | Sam Caine
+          3 | August Aldred
+          4 | James Heggs
+          5 | Rose Mullan
+          6 | David Bartlett
+          7 | Paul Rogerson
+          8 | Alex Swain
+          9 | Joe Mulvey
+(9 rows)
+
